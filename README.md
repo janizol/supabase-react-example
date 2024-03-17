@@ -1,2 +1,2 @@
-# supabase-react-example
-React example for supabase db
+# favourate_example
+Example for favourates
